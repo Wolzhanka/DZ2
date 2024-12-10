@@ -7,7 +7,7 @@ public class Block2
         System.out.println("Task 2.1");
         System.out.println(fraction(5.25));
         System.out.println(fraction(100.255));
-        System.out.println(fraction(10.92));
+        System.out.println(fraction(-10.92));
 
         System.out.println("Task 2.2");
         System.out.println(sumLastNums(53));

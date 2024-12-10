@@ -1,7 +1,5 @@
 package edu;
 
-import static java.lang.Math.abs;
-
 public class Block3
 {
     public static void main(String[] args) {
